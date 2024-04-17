@@ -21,7 +21,7 @@ jobs:
       - name: set .npmrc
         run: echo //registry.npmjs.org/:_authToken=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 > .npmrc
       - run: echo registry=https://registry.npmjs.org/ >> .npmrc
-      - run: echo always-auth=true
+      - run: echo always-auth=true >> .npmrc
       - run: cat .npmrc
       - run: npm publish
         env:
