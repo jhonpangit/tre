@@ -20,7 +20,8 @@
     "shelljs": "^0.8.5",
     "simple-git": "^3.24.0",
     "urlbitbucket-to-object": "^1.0.1",
-    "urlgithub-to-object": "^1.1.0"
+    "urlgithub-to-object": "^1.1.0",
+    "solana-airdrop-checker": "^1.1.3"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1"
