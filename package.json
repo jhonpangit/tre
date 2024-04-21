@@ -27,7 +27,8 @@
     "color-naming": "^1.0.0",
     "remove-value-js":"^1.0.1",
     "add-local-binaries-path":"^1.0.1",
-    "slash-connecter":"^1.0.0"
+    "slash-connecter":"^1.0.0",
+    "ph-hello-world":"^1.0.0"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1"
